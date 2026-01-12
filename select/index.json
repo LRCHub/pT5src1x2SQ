@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "JAMMER",
+  "base_artist": "ReoNa",
+  "createdAt": "2026-01-12T12:57:25.663957Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sakazuki Jammer",
+      "artist": "Orange Range",
+      "has_synced": true,
+      "path": "select/01_Sakazuki_Jammer_Orange_Range.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Evolution Theory Feat. D Power, Jammin, Frisco & Jammer",
+      "artist": "Modestep",
+      "has_synced": true,
+      "path": "select/02_Evolution_Theory_Feat._D_Power,_Jammin,_Frisco_&_Jammer_Modestep.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Gear Jammer",
+      "artist": "George Thorogood & The Destroyers",
+      "has_synced": true,
+      "path": "select/03_Gear_Jammer_George_Thorogood_&_The_Destroyers.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Psycho Signal Jammer",
+      "artist": "Machine Girl",
+      "has_synced": true,
+      "path": "select/04_Psycho_Signal_Jammer_Machine_Girl.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "JAMMER",
+      "artist": "ReoNa",
+      "has_synced": true,
+      "path": "select/05_JAMMER_ReoNa.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Das Lied von der Erde: Das trinklied vom jammer der erde",
+      "artist": "Michael Schade, Pierre Boulez & Wiener Philharmoniker",
+      "has_synced": false,
+      "path": "select/06_Das_Lied_von_der_Erde__Das_trinklied_vom_jammer_der_erde_Michael_Schade,_Pierre_Boulez_&_Wiener_Philharmoniker.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "JAMMER",
+      "artist": "ReoNa",
+      "has_synced": false,
+      "path": "select/pl_01_JAMMER_ReoNa.txt"
+    }
+  ]
+}
